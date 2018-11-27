@@ -1,0 +1,56 @@
+# German translations for com.github.voiceinfog.helloVala package.
+# Copyright (C) 2018 THE com.github.voiceinfog.helloVala'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.voiceinfog.helloVala package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.voiceinfog.helloVala\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-27 11:13+0530\n"
+"PO-Revision-Date: 2018-11-27 11:13+0530\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/Application.vala:11
+msgid "Hello Again World!"
+msgstr ""
+
+#: src/Application.vala:15
+msgid "Hello Again World"
+msgstr ""
+
+#: data/com.github.voiceinfog.helloVala.desktop.in:3
+#: data/com.github.voiceinfog.helloVala.appdata.xml.in:6
+msgid "Hello Vala"
+msgstr ""
+
+#: data/com.github.voiceinfog.helloVala.desktop.in:4
+msgid "Hello World App"
+msgstr ""
+
+#: data/com.github.voiceinfog.helloVala.desktop.in:5
+msgid "First Vala and GTK App for elementary OS"
+msgstr ""
+
+#: data/com.github.voiceinfog.helloVala.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.voiceinfog.helloVala.desktop.in:11
+msgid "Hello;World;Vala;Example"
+msgstr ""
+
+#: data/com.github.voiceinfog.helloVala.appdata.xml.in:7
+msgid "First Vala App"
+msgstr ""
+
+#: data/com.github.voiceinfog.helloVala.appdata.xml.in:9
+msgid ""
+"This is my first Hello World Program using Vala on Elementary OS 5 Juno."
+msgstr ""
