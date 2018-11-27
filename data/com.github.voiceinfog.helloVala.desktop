@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello Vala
+GenericName=Hello World App
+Comment=First Vala and GTK App for elementary OS
+Categories=Utility;Education;
+Exec=com.github.voiceinfog.helloVala
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Vala;Example
+
